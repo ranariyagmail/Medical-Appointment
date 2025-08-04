@@ -1,7 +1,7 @@
 
 # Cleaned Medical Appointment Dataset 🏥
 
-This project involves cleaning and preprocessing a dataset of medical appointments. The original dataset contained invalid entries such as negative ages and inconsistent date formats, which have been corrected and standardized.
+This project involves cleaning and preprocessing a dataset of medical appointments. The original dataset is downloaded from kaggle . Dtaset contained invalid entries such as negative ages and inconsistent date formats, which have been corrected and standardized.
 
 ## ✅ Dataset Cleaning Steps
 
@@ -13,8 +13,9 @@ This project involves cleaning and preprocessing a dataset of medical appointmen
 ## 📁 Files
 
 - `cleaned_data.csv` — the cleaned dataset
-- `cleaning_script.py` — Python script used for data cleaning
-- `README.md` — this file
+- `code file.py` — Python script used for data cleaning
+- `README.md`
+- KaggleV2-May-2016.csv - Dataset
 
 ## 🔧 Technologies Used
 
